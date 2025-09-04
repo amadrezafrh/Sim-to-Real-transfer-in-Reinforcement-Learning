@@ -1,7 +1,3 @@
-# Starting code for course project of Advanced Machine Learning (AML) 2022
-"Sim-to-Real transfer of Reinforcement Learning policies in robotics" project.
-
-
 ## Getting started
 
 You can play around with the code on your local machine, and use Google Colab for training on GPUs. When dealing with simple multi-layer perceptrons (MLPs), you can even attempt training on your local machine.
